@@ -35,7 +35,7 @@ def some_puppies(puppies, maximum_puppies)
   end
 end
 
-# some_puppies(10, 5)
+some_puppies(10, 5)
 
 
 # BONUS
@@ -48,4 +48,4 @@ def new_animal(puppies, cats)
   end
 end
 
-new_animal(0,0)
+# new_animal(0,0)
